@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolitaireLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0dd0e8fd62981dafa48cec85f550e8336fdcf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolitaireLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolitaireLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
